@@ -8,6 +8,8 @@ Examples:
 - Clustering
 
 - Currency Arbitrage
+
+- Feature Selection
   
 - Index Tracking
   
